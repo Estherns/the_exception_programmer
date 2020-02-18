@@ -16,6 +16,13 @@ print("Okay, let's dive into it!")
 
 Make sure you type all the 7 print statements or more!
 
+Now, you've learnt how to display or print information on screen. But, I don't wantto write all those print statements? Isn't there a better way? 
+Of course there is, and you can just write all that statement in one single line of code. By using a special character called the escape - "\n"
+Escape character will tell Python to move to the next line. Let's write our code now.
+
+print("Hey The Exception Programmer\n I am excited you are here\n Hey My goal is to expertise in Python\n Yes, I am determined!") 
+
+
 Python Data Types
 String
 Float
